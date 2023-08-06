@@ -2,16 +2,16 @@
 <hr>
 
 <div align="center">
-<img height="35px" width="100px" src="https://github.com/harpalassi/harpalassi/blob/main/img/netscape.gif?raw=true" alt="Netscrape" align="center">
+<img height="35px" width="100px" src="https://github.com/harpality/harpality/blob/main/img/netscape.gif?raw=true" alt="Netscape" align="center">
 </div>
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/harpalassi/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/harpality/count.svg" alt="hit counter" align="center">
 </div>
 
 <!--
-**harpalassi/harpalassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harpality/harpality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
