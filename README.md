@@ -3,6 +3,8 @@
 
 <div align="center">
 <img height="35px" width="100px" src="https://github.com/harpality/harpality/blob/main/img/netscape.gif?raw=true" alt="Netscape" align="center">
+<img height="35px" width="100px" src="https://github.com/harpality/harpality/blob/main/img/realplayer.gif?raw=true" alt="Realplayer" align="center">
+<img height="35px" width="100px" src="https://github.com/harpality/harpality/blob/main/img/shockwave.gif?raw=true" alt="Shockwave" align="center">
 </div>
 
 <div align="center">
