@@ -1,4 +1,4 @@
-### ```root@harpality-github:~ #```
+### ```root@harpality:~ #```
 <hr>
 
 <div align="center">
