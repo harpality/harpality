@@ -10,7 +10,7 @@
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/harpality/count.svg" alt="hit counter" align="center">
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fharpality&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC" alt="hit counter" align="center">
 </div>
 
 <!--
